@@ -13,7 +13,7 @@ const functions = require("./structs/functions.js");
 if (!fs.existsSync("./ClientSettings")) fs.mkdirSync("./ClientSettings");
 
 global.JWT_SECRET = functions.MakeID();
-const PORT = 8080;
+const PORT = 80;
 
 const tokens = JSON.parse(fs.readFileSync("./tokenManager/tokens.json").toString());
 
