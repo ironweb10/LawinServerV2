@@ -56,7 +56,7 @@
 
   },
 
-    "matchmakerIP": "127.0.0.1:80",
+    "matchmakerIP": "127.0.0.1:8050",
 
     "gameServerIP": "127.0.0.1:7777",
 
