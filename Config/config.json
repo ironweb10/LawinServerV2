@@ -1,0 +1,65 @@
+{
+
+    "moderators": ["846370965994864651", "1191106521636024320", "1026891696929255525"],
+
+    
+
+    "mongodb": {
+
+        "database": "mongodb+srv://og:og@ogg.cologyf.mongodb.net/?retryWrites=true&w=majority&appName=ogg"
+
+    },
+
+    "shopAPI": {
+
+        "//": "To get access to the API join https://tetstentfry.com/discord",
+
+        "useAPI": false,
+
+        "ttyAPIKEY": "",
+
+        "webhook": "https://discord.com/api/webhooks/1244270554509479956/w650EcBpLfXMMlYaXVJ6F_TzeoIdOerrsVQqTTayfeG1srYYaDLXerURPrMGha1O5dkP",
+
+        "title": "NEW SHOP",
+
+        "description": "Pulsar 9000 Project",
+
+        "hexcolor": "ffffff",
+
+        "chapter": "1",
+
+        "season": "8",
+
+        "imageurlbg": "https://cdn.discordapp.com/attachments/1135726476826779701/1144084920684249088/TetsTentFry_Shop.jpg"
+
+    },
+
+    "chat": {
+
+        "//": "Disabling global chat can help the server to perform faster as less resources are used.",
+
+        "EnableGlobalChat": false
+
+    },
+
+    "webhook": {
+
+    "url": "https://discord.com/api/webhooks/1244272214824456256/rqARvULusoey2BZmR95oHe7v9up-iQrWUnHpuuFbstZnILCD7FASQMYqUzc6dItT6ubA" 
+
+  },
+
+    "GameServer": {
+
+    "ip": "127.0.0.1",
+
+    "port": "7777"    
+
+  },
+
+    "matchmakerIP": "127.0.0.1:80",
+
+    "gameServerIP": "127.0.0.1:7777",
+
+    "webhook_url": "https://discord.com/api/webhooks/1244272212337229926/-vCm6YCvdBHyru8zArnSWoqyQrVe1u5hGvUvYwq6pvi2jPfWZ0pM2VmElIgmJBZB5Ff2"
+
+}
