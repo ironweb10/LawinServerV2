@@ -65,14 +65,7 @@ app.listen(PORT, () => {
     } else throw err;
 });
 
-// if endpoint not found, return this error
-app.use((req, res, next) => {
-    error.createError(
-        "errors.com.epicgames.common.not_found", 
-        "Sorry the resource you were trying to find could not be found", 
-        undefined, 1004, undefined, 404, res
-    );
-});
+
 
 function DateAddHours(pdate, number) {
     let date = pdate;
