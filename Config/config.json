@@ -6,7 +6,7 @@
 
     "mongodb": {
 
-        "database": "mongodb+srv://w:w@og.h4paiep.mongodb.net/?retryWrites=true&w=majority&appName=og"
+        "database": ""
 
     },
 
